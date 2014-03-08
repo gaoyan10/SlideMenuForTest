@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_text">#222222</color>
+    <color name="half_black">#55555555</color>
+    <drawable name="half_green_color">#88008800</drawable>
+    <drawable name="white_color">#eeeeee</drawable>
+</resources>
